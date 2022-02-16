@@ -1,14 +1,12 @@
-# Predicting results of chess games using Decision Tree, Random Forest and XGBoost
+# (ENG) Predicting results of chess games using Decision Tree, Random Forest and XGBoost
 
-(ENG) Code from my Engineering Thesis called "APPLICATION OF MACHINE LEARNING TO CHESS GAME ANALYSIS"
+Code from my Engineering Thesis called "APPLICATION OF MACHINE LEARNING TO CHESS GAME ANALYSIS"
 
 Abstract:
 
 This paper presents the definition of machine learning as well as its application to the analysis of historical chess play. The selected algorithms that were used to perform the analy- sis are described. Then the contents of the datasets were described and prepared for further work. The next stage of the work was a brief presentation of the Exploratory Data Analysis (EDA) along with an analysis of Elo ranking theory. In the practical part, the datasets were divided into training set (90%) and test set (10%). Lazy Predict test was performed to find the best classifier, then prediction results were presented using two metrics: accuracy and F1- score, for classifiers: Decision Tree, Random Forest and XGBoost. The best prediction score in the paper for the entire dataset is 60.94% for XGBoost classifier. In a later stage, the per- formance of the model was tested on other datasets and an analysis of the effect of individual features on the prediction score was performed. The paper concludes with a comparison with other similar works and conclusions.
 
-(PL)
-
-# Prognozowanie wyników partii szachowych
+# (PL) Prognozowanie wyników partii szachowych
 
 Kod pochodzi z mojej pracy inżynierskiej pt.: "ZASTOSOWANIE UCZENIA MASZYNOWEGO DO ANALIZY GRY W SZACHY"
 
